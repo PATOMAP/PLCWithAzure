@@ -1,0 +1,12 @@
+Simulation_Data.y;Real;0;False;False
+Simulation_Data.u_Int;Int16;0;False;False
+Comparison_Data.y;Real;0;False;False
+Real_Data.real_y_atm;Real;0;False;False
+PID_Data.SetPoint;Real;0;False;False
+PID_Data.y;Real;0;False;False
+PID_Data.u;Real;0;False;False
+PID_Compact_0.Retain;;;False;False
+PID_Compact_0.Retain.CtrlParams;;;False;False
+PID_Compact_0.Retain.CtrlParams.Gain;Real;0;False;False
+PID_Compact_0.Retain.CtrlParams.Td;Real;0;False;False
+PID_Compact_0.Retain.CtrlParams.Ti;Real;0;False;False

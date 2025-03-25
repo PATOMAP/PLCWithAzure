@@ -1,0 +1,8 @@
+3.gg;;;False;False
+3.gg.hhh;;;False;True
+3.gg.hhh.int;Int16;11;False;False
+3.gg.iny;Real;1;False;False
+db1.gg;;;False;False
+db1.gg.hhh;;;False;True
+db1.gg.hhh.int;Int16;11;False;False
+db1.gg.iny;Real;1;False;False

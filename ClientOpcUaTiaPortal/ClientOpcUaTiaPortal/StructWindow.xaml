@@ -1,0 +1,48 @@
+﻿<Window x:Class="DB.StructWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DB"
+        mc:Ignorable="d"
+        Title="StructWindow" Height="450" Width="615"
+        Closing="DataWindow_Closing">
+    <Grid x:Name="mainGrid" HorizontalAlignment="Center" Margin="10,0,0,0"  Width="610"  Background="AliceBlue">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20" />
+            <RowDefinition Height="20" />
+            <RowDefinition Height="22" />
+            <RowDefinition Height="5" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="150"/>
+            <ColumnDefinition Width="150"/>
+            <ColumnDefinition Width="150"/>
+            <ColumnDefinition Width="150"/>
+          
+        </Grid.ColumnDefinitions>
+        <TextBlock HorizontalAlignment="Center" Grid.Row="0" Grid.Column="1"  x:Name="structNamee"></TextBlock>
+
+        <TextBlock Grid.Row="1" Grid.Column="1" >Variabel name:</TextBlock>
+        <TextBlock Grid.Row="1" Grid.Column="2" >Variable type:</TextBlock>
+        <TextBlock Grid.Row="1" Grid.Column="3" >Value:</TextBlock>
+        <TextBox  Grid.Row="2" Grid.Column="1" x:Name="nazwaZm" ></TextBox>
+        <ComboBox Grid.Row="2" Grid.Column="2" x:Name="type1Var" DropDownOpened="type1Var_DropDownOpened" SelectionChanged="type1Var_SelectionChanged">
+            <!--<ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Name}"></TextBlock>
+                    </StackPanel>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>-->
+        </ComboBox>
+        <TextBox Grid.Row="2" Grid.Column="3"  x:Name="wartoscZm"></TextBox>
+        <Button Grid.Row="2" Grid.Column="4" x:Name="addWart" HorizontalAlignment="Center" Width="60" Content="Add" Click="addWart_Click"></Button>
+        <ListBox Grid.Row="4" Grid.ColumnSpan="5" x:Name="listVar" >
+
+
+        </ListBox>
+    </Grid>
+</Window>

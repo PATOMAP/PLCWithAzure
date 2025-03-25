@@ -1,0 +1,6 @@
+DB1.ff;Int16;4;False;False
+DB1.strukturag;;;False;False
+DB1.strukturag.struktura_1;Real;4;False;False
+DB1.hhhh;;;False;False
+DB1.hhhh.hh;Int16;7;False;False
+DB2.ff;Real;5;False;False

@@ -1,0 +1,7 @@
+demoblock.demotag5;Bool;true;False;False
+demoblock.demotag6;Real;13,5;False;False
+demoblock.demotag7;String;ksz;False;False
+demoblock.demotag8;;;False;False
+demoblock.demotag8.value1;Bool;true;False;False
+demoblock.demotag8.value2;Int16;23;False;False
+demoblock.demotag8.value3;Real;14,2;False;False
