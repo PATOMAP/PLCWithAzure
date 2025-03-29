@@ -20,14 +20,13 @@ namespace ClientOpcUaTiaPortal.Events
         private itemDB _itemToWrite;//item must to write
         bool statCon = false;
         private List<dbBlock> _dbBlocks;
-        private TextBox _urlServer;
-        public EventWithServer(TextBox urlServer, List<dbBlock> dbBlocks)
+
+        public EventWithServer( List<dbBlock> dbBlocks)
         {
             typingTimer = new DispatcherTimer();
             typingTimer.Interval = TimeSpan.FromMilliseconds(TypingDelay);
             typingTimer.Tick += TypingTimer_Tick;
             _dbBlocks = dbBlocks;
-            _urlServer = urlServer;
         }
 
         private void TypingTimer_Tick(object sender, EventArgs e)//write value to opc ua
@@ -58,13 +57,13 @@ namespace ClientOpcUaTiaPortal.Events
             }
 
         }
-        public void ConnectWithOpcUa(object sender)
+        public void ConnectWithOpcUa(object sender,string url)
         {
             Button btn = sender as Button;
             if (!statCon)
             {
                 btn.Content = "Disconnect";
-                serwerOpcUa = new ConnectOpcUa(_dbBlocks, _urlServer.Text);
+                serwerOpcUa = new ConnectOpcUa(_dbBlocks, url);
             }
 
             else

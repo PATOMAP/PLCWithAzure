@@ -25,7 +25,7 @@ namespace ClientOpcUaTiaPortal
             InitializeComponent();
             _listObjectType = new listObjectType();
             _dbBlocks = new List<dbBlock>();
-            _eventWithServer = new EventWithServer(urlSerwer, _dbBlocks);
+            _eventWithServer = new EventWithServer(_dbBlocks);
             _itemIntoDbBlocks = new ItemIntoDbBlocks(_eventWithServer, _listObjectType);
             _functionDB = new CreateDbBlocks(_dbBlocks, _itemIntoDbBlocks);
 
@@ -58,7 +58,7 @@ namespace ClientOpcUaTiaPortal
 
         private void connectWithOpcUa(object sender, RoutedEventArgs e)
         {
-            _eventWithServer.ConnectWithOpcUa(sender);
+            _eventWithServer.ConnectWithOpcUa(sender,urlSerwer.Text);
 
         }
 

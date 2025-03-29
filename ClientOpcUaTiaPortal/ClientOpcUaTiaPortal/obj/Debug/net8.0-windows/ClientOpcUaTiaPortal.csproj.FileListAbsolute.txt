@@ -97,6 +97,7 @@ C:\Users\pawel\OneDrive\Pulpit\c#\inzslow\ClientOpcUaTiaPortal\ClientOpcUaTiaPor
 C:\Users\pawel\OneDrive\Pulpit\c#\inzslow\ClientOpcUaTiaPortal\ClientOpcUaTiaPortal\obj\Debug\net8.0-windows\ClientOpcUaTiaPortal.genruntimeconfig.cache
 C:\Users\pawel\OneDrive\Pulpit\c#\inzslow\ClientOpcUaTiaPortal\ClientOpcUaTiaPortal\obj\Debug\net8.0-windows\ref\ClientOpcUaTiaPortal.dll
 G:\c#\inzslow\ClientOpcUaTiaPortal\ClientOpcUaTiaPortal\bin\Debug\net8.0-windows\ClientOpcUaTiaPortal.exe
+G:\c#\inzslow\ClientOpcUaTiaPortal\ClientOpcUaTiaPortal\bin\Debug\net8.0-windows\ClientOpcUaTiaPortal.dll.config
 G:\c#\inzslow\ClientOpcUaTiaPortal\ClientOpcUaTiaPortal\bin\Debug\net8.0-windows\ClientOpcUaTiaPortal.deps.json
 G:\c#\inzslow\ClientOpcUaTiaPortal\ClientOpcUaTiaPortal\bin\Debug\net8.0-windows\ClientOpcUaTiaPortal.runtimeconfig.json
 G:\c#\inzslow\ClientOpcUaTiaPortal\ClientOpcUaTiaPortal\bin\Debug\net8.0-windows\ClientOpcUaTiaPortal.dll
@@ -139,10 +140,10 @@ G:\c#\inzslow\ClientOpcUaTiaPortal\ClientOpcUaTiaPortal\obj\Debug\net8.0-windows
 G:\c#\inzslow\ClientOpcUaTiaPortal\ClientOpcUaTiaPortal\obj\Debug\net8.0-windows\ClientOpcUaTiaPortal.AssemblyInfoInputs.cache
 G:\c#\inzslow\ClientOpcUaTiaPortal\ClientOpcUaTiaPortal\obj\Debug\net8.0-windows\ClientOpcUaTiaPortal.AssemblyInfo.cs
 G:\c#\inzslow\ClientOpcUaTiaPortal\ClientOpcUaTiaPortal\obj\Debug\net8.0-windows\ClientOpcUaTiaPortal.csproj.CoreCompileInputs.cache
+G:\c#\inzslow\ClientOpcUaTiaPortal\ClientOpcUaTiaPortal\obj\Debug\net8.0-windows\ClientOpcUaTiaPortal.sourcelink.json
 G:\c#\inzslow\ClientOpcUaTiaPortal\ClientOpcUaTiaPortal\obj\Debug\net8.0-windows\ClientOp.6C90F86A.Up2Date
 G:\c#\inzslow\ClientOpcUaTiaPortal\ClientOpcUaTiaPortal\obj\Debug\net8.0-windows\ClientOpcUaTiaPortal.dll
 G:\c#\inzslow\ClientOpcUaTiaPortal\ClientOpcUaTiaPortal\obj\Debug\net8.0-windows\refint\ClientOpcUaTiaPortal.dll
 G:\c#\inzslow\ClientOpcUaTiaPortal\ClientOpcUaTiaPortal\obj\Debug\net8.0-windows\ClientOpcUaTiaPortal.pdb
 G:\c#\inzslow\ClientOpcUaTiaPortal\ClientOpcUaTiaPortal\obj\Debug\net8.0-windows\ClientOpcUaTiaPortal.genruntimeconfig.cache
 G:\c#\inzslow\ClientOpcUaTiaPortal\ClientOpcUaTiaPortal\obj\Debug\net8.0-windows\ref\ClientOpcUaTiaPortal.dll
-G:\c#\inzslow\ClientOpcUaTiaPortal\ClientOpcUaTiaPortal\bin\Debug\net8.0-windows\ClientOpcUaTiaPortal.dll.config
