@@ -17,23 +17,37 @@ namespace OPCUATEST
         //_eventWithServer = new EventWithServer(_dbBlocks);
         //_itemIntoDbBlocks = new ItemIntoDbBlocks(_eventWithServer, _listObjectType);
         //_functionDB = new CreateDbBlocks(_dbBlocks, _itemIntoDbBlocks);
-        public OPCUATEST()
+
+        [Theory]
+        [MemberData(nameof(StringLists))]
+
+        public void CheckAddDB(List<string> names)
         {
-
-
-        }
-        [Fact]
-        public void CheckAddDB()
-        {
-
+            
             //given
             _listObjectType = new listObjectType();
             _dbBlocks = new List<dbBlock>();
-            var ob = new dbBlock(_listObjectType._list) { NameDb = "DB1", ind = _dbBlocks.Count };
+            int id = 0;
+            foreach (var name in names)
+            {
+
+                var ob = new dbBlock(_listObjectType._list) { NameDb = name, ind = _dbBlocks.Count };
             //when
             _dbBlocks.Add(ob);
             //then
-            _dbBlocks.Should().Contain(a=>a.NameDb=="DB1" );
+            _dbBlocks.Should().Contain(a=>a.NameDb==name  && a.ind==id);
+                id++;
+            }
         }
+
+
+
+        //List to test
+        public static IEnumerable<object[]> StringLists()
+        {
+            yield return new object[] { new List<string> { "DB1", "DB2", "DB3" } };
+        }
+
+
     }
 }

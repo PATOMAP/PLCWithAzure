@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OPCUATEST")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d702991be9a6e10dcc0b45a1682f36b591dcebd6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b862c780a34ecb843442359c012a12690082de2e")]
 [assembly: System.Reflection.AssemblyProductAttribute("OPCUATEST")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OPCUATEST")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

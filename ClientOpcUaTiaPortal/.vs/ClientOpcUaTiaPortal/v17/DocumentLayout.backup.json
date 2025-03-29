@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B1685993-B69A-4320-A284-C0AF7CDD4667}|ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj|g:\\c#\\inzslow\\clientopcuatiaportal\\clientopcuatiaportal\\structwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1685993-B69A-4320-A284-C0AF7CDD4667}|ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj|solutionrelative:clientopcuatiaportal\\structwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1685993-B69A-4320-A284-C0AF7CDD4667}|ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj|g:\\c#\\inzslow\\clientopcuatiaportal\\clientopcuatiaportal\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1685993-B69A-4320-A284-C0AF7CDD4667}|ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj|solutionrelative:clientopcuatiaportal\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3310D0F9-CB6D-45A7-8C57-22ECC0F5A967}|OPCUATEST\\OPCUATEST.csproj|g:\\c#\\inzslow\\clientopcuatiaportal\\opcuatest\\opcuatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3310D0F9-CB6D-45A7-8C57-22ECC0F5A967}|OPCUATEST\\OPCUATEST.csproj|solutionrelative:opcuatest\\opcuatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,11 +42,41 @@
       "DocumentGroups": [
         {
           "DockedHeight": 302,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StructWindow.xaml.cs",
+              "DocumentMoniker": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\StructWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ClientOpcUaTiaPortal\\StructWindow.xaml.cs",
+              "ToolTip": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\StructWindow.xaml.cs",
+              "RelativeToolTip": "ClientOpcUaTiaPortal\\StructWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:28:01.078Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ClientOpcUaTiaPortal\\App.xaml.cs",
+              "ToolTip": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\App.xaml.cs",
+              "RelativeToolTip": "ClientOpcUaTiaPortal\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:27:58.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "EventWithServer.cs",
               "DocumentMoniker": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\Events\\EventWithServer.cs",
               "RelativeDocumentMoniker": "ClientOpcUaTiaPortal\\Events\\EventWithServer.cs",
@@ -46,16 +84,11 @@
               "RelativeToolTip": "ClientOpcUaTiaPortal\\Events\\EventWithServer.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAYwBcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T15:38:18.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "WhenOpened": "2025-03-26T15:38:18.852Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CreateConfig.xaml.cs",
               "DocumentMoniker": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\CreateConfig.xaml.cs",
               "RelativeDocumentMoniker": "ClientOpcUaTiaPortal\\CreateConfig.xaml.cs",
@@ -63,12 +96,11 @@
               "RelativeToolTip": "ClientOpcUaTiaPortal\\CreateConfig.xaml.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAYwBEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T15:20:32.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T15:20:32.196Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "OPCUATEST.csproj",
               "DocumentMoniker": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\OPCUATEST\\OPCUATEST.csproj",
               "RelativeDocumentMoniker": "OPCUATEST\\OPCUATEST.csproj",
@@ -76,37 +108,35 @@
               "RelativeToolTip": "OPCUATEST\\OPCUATEST.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-26T15:14:33.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T15:14:33.038Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "OPCUATEST.cs",
               "DocumentMoniker": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\OPCUATEST\\OPCUATEST.cs",
               "RelativeDocumentMoniker": "OPCUATEST\\OPCUATEST.cs",
-              "ToolTip": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\OPCUATEST\\OPCUATEST.cs*",
-              "RelativeToolTip": "OPCUATEST\\OPCUATEST.cs*",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAowBkAAAAZAAAAAAAAAA==",
+              "ToolTip": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\OPCUATEST\\OPCUATEST.cs",
+              "RelativeToolTip": "OPCUATEST\\OPCUATEST.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T15:12:31.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ClientOpcUaTiaPortal",
               "DocumentMoniker": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj",
               "RelativeDocumentMoniker": "ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj",
               "ToolTip": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj",
               "RelativeToolTip": "ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-26T15:09:23.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T15:09:23.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ClientOpcUaTiaPortal.csproj",
               "DocumentMoniker": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj",
               "RelativeDocumentMoniker": "ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj",
@@ -114,8 +144,7 @@
               "RelativeToolTip": "ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-26T15:00:21.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T15:00:21.543Z"
             }
           ]
         },
