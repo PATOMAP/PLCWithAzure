@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClientOpcUaTiaPortal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b862c780a34ecb843442359c012a12690082de2e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a578b223cc5e2fc2a119fdf7e950697fc192ea0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClientOpcUaTiaPortal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClientOpcUaTiaPortal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

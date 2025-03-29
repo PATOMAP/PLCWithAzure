@@ -24,9 +24,9 @@ namespace ClientOpcUaTiaPortal.TransferInformation
         private string _bucket;
         private string _org;
         private object _client;
-        List<tempItemInflux> _zmList;
-        List<itemFromInflux> _itemFromInflux;
-        public ConnectWithInflux(List<tempItemInflux> zmList, List<itemFromInflux> itemFromInflux)
+        List<ItemInflux> _zmList;
+        List<ItemFromInflux> _itemFromInflux;
+        public ConnectWithInflux(List<ItemInflux> zmList, List<ItemFromInflux> itemFromInflux)
         {
             _zmList = zmList;
             _itemFromInflux = itemFromInflux;
@@ -98,7 +98,7 @@ namespace ClientOpcUaTiaPortal.TransferInformation
                 {
                     string name = Convert.ToString(record.GetField());
                     double value = Convert.ToSingle(record.GetValueByKey("_value"));
-                    _itemFromInflux.Add(new itemFromInflux { Name = name, Value = value });
+                    _itemFromInflux.Add(new ItemFromInflux { Name = name, Value = value });
 
                     if (name == "SetPoint")
                     {

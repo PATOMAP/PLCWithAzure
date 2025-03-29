@@ -3,7 +3,7 @@
 namespace ClientOpcUaTiaPortal.item
 {
 
-    public class listType//itemy do comoboxa
+    public class ItemsToComobBox//itemy do comoboxa
     {
         public string Name { get; set; }
        

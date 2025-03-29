@@ -11,15 +11,15 @@ namespace ClientOpcUaTiaPortal.item
         public string NameDb { get; set; }
 
 
-        public List<listType> listType1 { get; set; }
+        public List<ItemsToComobBox> listType1 { get; set; }
 
         public List<itemDB> _itemsDB { get; set; }
 
-        public dbBlock(List<listType> _listType)
+        public dbBlock(List<ItemsToComobBox> _listType)
         {
             _itemsDB= new List<itemDB>();//zmiana ostatnia
-            listType1=new List<listType>();
-            foreach (listType item in _listType)
+            listType1=new List<ItemsToComobBox>();
+            foreach (ItemsToComobBox item in _listType)
             {
                 listType1.Add(item);
             }

@@ -12,7 +12,7 @@ namespace ClientOpcUaTiaPortal.TransferInformation
 {
     public class ConnectWithAzureFunc
     {
-        public static async void Connect(List<tempItemInflux> list)//new class
+        public static async void Connect(List<ItemInflux> list)//new class
         {
 
             string functionUrl = "http://localhost:7281/api/Average";

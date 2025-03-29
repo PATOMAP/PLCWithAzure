@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClientOpcUaTiaPortal.item
 {
-    public class tempItemInflux
+    public class ItemInflux
     {
         public TimeSpan time {  get; set; }
         public float ValueF {  get; set; } 

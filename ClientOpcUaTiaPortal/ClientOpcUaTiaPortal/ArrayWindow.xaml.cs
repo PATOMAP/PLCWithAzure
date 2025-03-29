@@ -25,13 +25,13 @@ namespace DB
 
     public partial class ArrayWindow : Window
     {
-        public event EventHandler <sendData> DataSent;
+        public event EventHandler <SendData> DataSent;
 
         private dbBlock _nazwaDB;
         private dbBlock _nazwaDBOrg;
         private Grid _grid;
 
-        public ArrayWindow(dbBlock dbPrz,Grid grid,List<listType>list)
+        public ArrayWindow(dbBlock dbPrz,Grid grid,List<ItemsToComobBox>list)
         {
             _nazwaDBOrg=dbPrz;
             _nazwaDB = new dbBlock(list){ind=dbPrz.ind};
@@ -56,7 +56,7 @@ namespace DB
             try
             {
                  roz=Convert.ToInt16( sizeArray.Text.ToString()); 
-                 choice = (arrayBox.SelectedItem as listType).Name.ToString();
+                 choice = (arrayBox.SelectedItem as ItemsToComobBox).Name.ToString();
             }
             catch (Exception ex)
             {
@@ -71,7 +71,7 @@ namespace DB
                 e.Cancel = true;
                 return;
             }
-            sendData dataTemp = new sendData {count=roz,type=choice,ind=_nazwaDB.ind,grid=_grid,_nazwaDB=_nazwaDBOrg};
+            SendData dataTemp = new SendData {count=roz,type=choice,ind=_nazwaDB.ind,grid=_grid,_nazwaDB=_nazwaDBOrg};
             
             DataSent?.Invoke(this,dataTemp);
         }

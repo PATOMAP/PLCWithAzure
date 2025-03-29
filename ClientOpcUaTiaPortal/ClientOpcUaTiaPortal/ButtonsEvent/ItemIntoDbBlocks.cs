@@ -109,7 +109,7 @@ namespace ClientOpcUaTiaPortal.ListbBoxMainApplication
             }
             else
             {
-                listType type = null;
+                ItemsToComobBox type = null;
                 foreach (var item in listObjectType._list)
                 {
                     if (item.Name == choice)
@@ -176,7 +176,7 @@ namespace ClientOpcUaTiaPortal.ListbBoxMainApplication
             return false;
 
         }
-        private void OnDataReceivedArray(object sender, sendData data)//pobrane dane z array
+        private void OnDataReceivedArray(object sender, SendData data)//pobrane dane z array
         {
             var ob = data.grid.Tag;
             UIElementCollection items = data.grid.Children as UIElementCollection;// 

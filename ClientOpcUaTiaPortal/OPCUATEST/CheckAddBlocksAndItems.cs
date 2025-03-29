@@ -7,7 +7,7 @@ using System.Windows.Controls;
 using FluentAssertions;
 namespace OPCUATEST
 {
-    public class OPCUATEST
+    public class CheckAddBlocksAndItems
     {
         private List<dbBlock> _dbBlocks;
         listObjectType _listObjectType;

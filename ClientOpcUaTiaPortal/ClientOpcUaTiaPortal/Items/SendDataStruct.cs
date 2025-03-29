@@ -7,7 +7,7 @@ using System.Windows.Controls;
 
 namespace ClientOpcUaTiaPortal.item
 {
-    public class SendDataStruct : sendData
+    public class SendDataStruct : SendData
     {
         public Expander expanderSend { get; set; }
 

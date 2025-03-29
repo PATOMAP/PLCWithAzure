@@ -12,25 +12,25 @@ namespace ClientOpcUaTiaPortal.item
 {
     public class listObjectType
     {
-       public List<listType> _list;
+       public List<ItemsToComobBox> _list;
         public listObjectType() 
         {
-            _list = new List<listType>();
-            _list.Add(new listType { Name = "Array" });
-            _list.Add(new listType { Name = "Struct" });
-            _list.Add(new listType { Name = "Int16" });
-            _list.Add(new listType { Name = "String" });
-            _list.Add(new listType { Name = "Real" });
-            _list.Add(new listType { Name = "Bool" });
-            _list.Add(new listType { Name = "Byte" });
-            _list.Add(new listType { Name = "SByte" });
-            _list.Add(new listType { Name = "UInt16" });
-            _list.Add(new listType { Name = "Int32" });
-            _list.Add(new listType { Name = "UInt32" });
-            _list.Add(new listType { Name = "Int64" });
-            _list.Add(new listType { Name = "UInt64" });
-            _list.Add(new listType { Name = "Real" });
-            _list.Add(new listType { Name = "Double" });
+            _list = new List<ItemsToComobBox>();
+            _list.Add(new ItemsToComobBox { Name = "Array" });
+            _list.Add(new ItemsToComobBox { Name = "Struct" });
+            _list.Add(new ItemsToComobBox { Name = "Int16" });
+            _list.Add(new ItemsToComobBox { Name = "String" });
+            _list.Add(new ItemsToComobBox { Name = "Real" });
+            _list.Add(new ItemsToComobBox { Name = "Bool" });
+            _list.Add(new ItemsToComobBox { Name = "Byte" });
+            _list.Add(new ItemsToComobBox { Name = "SByte" });
+            _list.Add(new ItemsToComobBox { Name = "UInt16" });
+            _list.Add(new ItemsToComobBox { Name = "Int32" });
+            _list.Add(new ItemsToComobBox { Name = "UInt32" });
+            _list.Add(new ItemsToComobBox { Name = "Int64" });
+            _list.Add(new ItemsToComobBox { Name = "UInt64" });
+            _list.Add(new ItemsToComobBox { Name = "Real" });
+            _list.Add(new ItemsToComobBox { Name = "Double" });
 
             
         }
@@ -42,9 +42,9 @@ namespace ClientOpcUaTiaPortal.item
                 return true;
             }
             if(item ==null)
-                _list.Add(new listType { Name = name });
+                _list.Add(new ItemsToComobBox { Name = name });
             else 
-                _list.Add(new listType {Name = name,_itemDB=item});
+                _list.Add(new ItemsToComobBox {Name = name,_itemDB=item});
             return false;
         }
     }

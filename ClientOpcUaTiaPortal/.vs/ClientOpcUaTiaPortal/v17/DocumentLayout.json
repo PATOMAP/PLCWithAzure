@@ -3,16 +3,64 @@
   "WorkspaceRootPath": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B1685993-B69A-4320-A284-C0AF7CDD4667}|ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj|g:\\c#\\inzslow\\clientopcuatiaportal\\clientopcuatiaportal\\items\\sendtostructwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1685993-B69A-4320-A284-C0AF7CDD4667}|ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj|solutionrelative:clientopcuatiaportal\\items\\sendtostructwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1685993-B69A-4320-A284-C0AF7CDD4667}|ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj|g:\\c#\\inzslow\\clientopcuatiaportal\\clientopcuatiaportal\\items\\senddatastruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1685993-B69A-4320-A284-C0AF7CDD4667}|ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj|solutionrelative:clientopcuatiaportal\\items\\senddatastruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1685993-B69A-4320-A284-C0AF7CDD4667}|ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj|g:\\c#\\inzslow\\clientopcuatiaportal\\clientopcuatiaportal\\items\\itemdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1685993-B69A-4320-A284-C0AF7CDD4667}|ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj|solutionrelative:clientopcuatiaportal\\items\\itemdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1685993-B69A-4320-A284-C0AF7CDD4667}|ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj|g:\\c#\\inzslow\\clientopcuatiaportal\\clientopcuatiaportal\\items\\itemfromconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1685993-B69A-4320-A284-C0AF7CDD4667}|ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj|solutionrelative:clientopcuatiaportal\\items\\itemfromconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1685993-B69A-4320-A284-C0AF7CDD4667}|ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj|g:\\c#\\inzslow\\clientopcuatiaportal\\clientopcuatiaportal\\items\\itemfrominflux.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1685993-B69A-4320-A284-C0AF7CDD4667}|ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj|solutionrelative:clientopcuatiaportal\\items\\itemfrominflux.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1685993-B69A-4320-A284-C0AF7CDD4667}|ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj|g:\\c#\\inzslow\\clientopcuatiaportal\\clientopcuatiaportal\\items\\iteminflux.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1685993-B69A-4320-A284-C0AF7CDD4667}|ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj|solutionrelative:clientopcuatiaportal\\items\\iteminflux.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1685993-B69A-4320-A284-C0AF7CDD4667}|ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj|g:\\c#\\inzslow\\clientopcuatiaportal\\clientopcuatiaportal\\items\\itemstocomobbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1685993-B69A-4320-A284-C0AF7CDD4667}|ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj|solutionrelative:clientopcuatiaportal\\items\\itemstocomobbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1685993-B69A-4320-A284-C0AF7CDD4667}|ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj|g:\\c#\\inzslow\\clientopcuatiaportal\\clientopcuatiaportal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B1685993-B69A-4320-A284-C0AF7CDD4667}|ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj|solutionrelative:clientopcuatiaportal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1685993-B69A-4320-A284-C0AF7CDD4667}|ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj|g:\\c#\\inzslow\\clientopcuatiaportal\\clientopcuatiaportal\\transferinformation\\connectopcua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1685993-B69A-4320-A284-C0AF7CDD4667}|ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj|solutionrelative:clientopcuatiaportal\\transferinformation\\connectopcua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1685993-B69A-4320-A284-C0AF7CDD4667}|ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj|g:\\c#\\inzslow\\clientopcuatiaportal\\clientopcuatiaportal\\transferinformation\\connectwithazurefunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1685993-B69A-4320-A284-C0AF7CDD4667}|ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj|solutionrelative:clientopcuatiaportal\\transferinformation\\connectwithazurefunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1685993-B69A-4320-A284-C0AF7CDD4667}|ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj|g:\\c#\\inzslow\\clientopcuatiaportal\\clientopcuatiaportal\\transferinformation\\connectwithinflux.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1685993-B69A-4320-A284-C0AF7CDD4667}|ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj|solutionrelative:clientopcuatiaportal\\transferinformation\\connectwithinflux.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1685993-B69A-4320-A284-C0AF7CDD4667}|ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj|g:\\c#\\inzslow\\clientopcuatiaportal\\clientopcuatiaportal\\items\\dbblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1685993-B69A-4320-A284-C0AF7CDD4667}|ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj|solutionrelative:clientopcuatiaportal\\items\\dbblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3310D0F9-CB6D-45A7-8C57-22ECC0F5A967}|OPCUATEST\\OPCUATEST.csproj|g:\\c#\\inzslow\\clientopcuatiaportal\\opcuatest\\checkaddblocksanditems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3310D0F9-CB6D-45A7-8C57-22ECC0F5A967}|OPCUATEST\\OPCUATEST.csproj|solutionrelative:opcuatest\\checkaddblocksanditems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B1685993-B69A-4320-A284-C0AF7CDD4667}|ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj|g:\\c#\\inzslow\\clientopcuatiaportal\\clientopcuatiaportal\\structwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1685993-B69A-4320-A284-C0AF7CDD4667}|ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj|solutionrelative:clientopcuatiaportal\\structwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B1685993-B69A-4320-A284-C0AF7CDD4667}|ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj|g:\\c#\\inzslow\\clientopcuatiaportal\\clientopcuatiaportal\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1685993-B69A-4320-A284-C0AF7CDD4667}|ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj|solutionrelative:clientopcuatiaportal\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3310D0F9-CB6D-45A7-8C57-22ECC0F5A967}|OPCUATEST\\OPCUATEST.csproj|g:\\c#\\inzslow\\clientopcuatiaportal\\opcuatest\\opcuatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3310D0F9-CB6D-45A7-8C57-22ECC0F5A967}|OPCUATEST\\OPCUATEST.csproj|solutionrelative:opcuatest\\opcuatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B1685993-B69A-4320-A284-C0AF7CDD4667}|ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj|g:\\c#\\inzslow\\clientopcuatiaportal\\clientopcuatiaportal\\events\\eventwithserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,15 +90,171 @@
       "DocumentGroups": [
         {
           "DockedHeight": 302,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SendToStructWindow.cs",
+              "DocumentMoniker": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\Items\\SendToStructWindow.cs",
+              "RelativeDocumentMoniker": "ClientOpcUaTiaPortal\\Items\\SendToStructWindow.cs",
+              "ToolTip": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\Items\\SendToStructWindow.cs",
+              "RelativeToolTip": "ClientOpcUaTiaPortal\\Items\\SendToStructWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:41:15.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SendDataStruct.cs",
+              "DocumentMoniker": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\Items\\SendDataStruct.cs",
+              "RelativeDocumentMoniker": "ClientOpcUaTiaPortal\\Items\\SendDataStruct.cs",
+              "ToolTip": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\Items\\SendDataStruct.cs",
+              "RelativeToolTip": "ClientOpcUaTiaPortal\\Items\\SendDataStruct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:41:14.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "itemDB.cs",
+              "DocumentMoniker": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\Items\\itemDB.cs",
+              "RelativeDocumentMoniker": "ClientOpcUaTiaPortal\\Items\\itemDB.cs",
+              "ToolTip": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\Items\\itemDB.cs",
+              "RelativeToolTip": "ClientOpcUaTiaPortal\\Items\\itemDB.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwBYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:40:50.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "itemFromConfig.cs",
+              "DocumentMoniker": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\Items\\itemFromConfig.cs",
+              "RelativeDocumentMoniker": "ClientOpcUaTiaPortal\\Items\\itemFromConfig.cs",
+              "ToolTip": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\Items\\itemFromConfig.cs",
+              "RelativeToolTip": "ClientOpcUaTiaPortal\\Items\\itemFromConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:40:49.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "itemFromInflux.cs",
+              "DocumentMoniker": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\Items\\itemFromInflux.cs",
+              "RelativeDocumentMoniker": "ClientOpcUaTiaPortal\\Items\\itemFromInflux.cs",
+              "ToolTip": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\Items\\itemFromInflux.cs",
+              "RelativeToolTip": "ClientOpcUaTiaPortal\\Items\\itemFromInflux.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:40:33.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dbBlock.cs",
+              "DocumentMoniker": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\Items\\dbBlock.cs",
+              "RelativeDocumentMoniker": "ClientOpcUaTiaPortal\\Items\\dbBlock.cs",
+              "ToolTip": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\Items\\dbBlock.cs",
+              "RelativeToolTip": "ClientOpcUaTiaPortal\\Items\\dbBlock.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:37:22.989Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "ItemsToComobBox.cs",
+              "DocumentMoniker": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\Items\\ItemsToComobBox.cs",
+              "RelativeDocumentMoniker": "ClientOpcUaTiaPortal\\Items\\ItemsToComobBox.cs",
+              "ToolTip": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\Items\\ItemsToComobBox.cs",
+              "RelativeToolTip": "ClientOpcUaTiaPortal\\Items\\ItemsToComobBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:40:03.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\App.config",
+              "RelativeDocumentMoniker": "ClientOpcUaTiaPortal\\App.config",
+              "ToolTip": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\App.config",
+              "RelativeToolTip": "ClientOpcUaTiaPortal\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-29T14:39:54.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConnectOpcUa.cs",
+              "DocumentMoniker": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\TransferInformation\\ConnectOpcUa.cs",
+              "RelativeDocumentMoniker": "ClientOpcUaTiaPortal\\TransferInformation\\ConnectOpcUa.cs",
+              "ToolTip": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\TransferInformation\\ConnectOpcUa.cs",
+              "RelativeToolTip": "ClientOpcUaTiaPortal\\TransferInformation\\ConnectOpcUa.cs",
+              "ViewState": "AgIAAAABAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:38:14.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConnectWithAzureFunc.cs",
+              "DocumentMoniker": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\TransferInformation\\ConnectWithAzureFunc.cs",
+              "RelativeDocumentMoniker": "ClientOpcUaTiaPortal\\TransferInformation\\ConnectWithAzureFunc.cs",
+              "ToolTip": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\TransferInformation\\ConnectWithAzureFunc.cs",
+              "RelativeToolTip": "ClientOpcUaTiaPortal\\TransferInformation\\ConnectWithAzureFunc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:38:14.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConnectWithInflux.cs",
+              "DocumentMoniker": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\TransferInformation\\ConnectWithInflux.cs",
+              "RelativeDocumentMoniker": "ClientOpcUaTiaPortal\\TransferInformation\\ConnectWithInflux.cs",
+              "ToolTip": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\TransferInformation\\ConnectWithInflux.cs",
+              "RelativeToolTip": "ClientOpcUaTiaPortal\\TransferInformation\\ConnectWithInflux.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:38:13.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemInflux.cs",
+              "DocumentMoniker": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\Items\\ItemInflux.cs",
+              "RelativeDocumentMoniker": "ClientOpcUaTiaPortal\\Items\\ItemInflux.cs",
+              "ToolTip": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\Items\\ItemInflux.cs",
+              "RelativeToolTip": "ClientOpcUaTiaPortal\\Items\\ItemInflux.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:37:51.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "StructWindow.xaml.cs",
               "DocumentMoniker": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\StructWindow.xaml.cs",
               "RelativeDocumentMoniker": "ClientOpcUaTiaPortal\\StructWindow.xaml.cs",
@@ -63,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\App.xaml.cs",
               "RelativeDocumentMoniker": "ClientOpcUaTiaPortal\\App.xaml.cs",
@@ -71,12 +275,11 @@
               "RelativeToolTip": "ClientOpcUaTiaPortal\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T14:27:58.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T14:27:58.647Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "EventWithServer.cs",
               "DocumentMoniker": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\Events\\EventWithServer.cs",
               "RelativeDocumentMoniker": "ClientOpcUaTiaPortal\\Events\\EventWithServer.cs",
@@ -88,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "CreateConfig.xaml.cs",
               "DocumentMoniker": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\CreateConfig.xaml.cs",
               "RelativeDocumentMoniker": "ClientOpcUaTiaPortal\\CreateConfig.xaml.cs",
@@ -100,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 19,
               "Title": "OPCUATEST.csproj",
               "DocumentMoniker": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\OPCUATEST\\OPCUATEST.csproj",
               "RelativeDocumentMoniker": "OPCUATEST\\OPCUATEST.csproj",
@@ -108,35 +311,37 @@
               "RelativeToolTip": "OPCUATEST\\OPCUATEST.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-26T15:14:33.038Z"
+              "WhenOpened": "2025-03-26T15:14:33.038Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OPCUATEST.cs",
-              "DocumentMoniker": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\OPCUATEST\\OPCUATEST.cs",
-              "RelativeDocumentMoniker": "OPCUATEST\\OPCUATEST.cs",
-              "ToolTip": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\OPCUATEST\\OPCUATEST.cs",
-              "RelativeToolTip": "OPCUATEST\\OPCUATEST.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwBcAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "CheckAddBlocksAndItems.cs",
+              "DocumentMoniker": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\OPCUATEST\\CheckAddBlocksAndItems.cs",
+              "RelativeDocumentMoniker": "OPCUATEST\\CheckAddBlocksAndItems.cs",
+              "ToolTip": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\OPCUATEST\\CheckAddBlocksAndItems.cs",
+              "RelativeToolTip": "OPCUATEST\\CheckAddBlocksAndItems.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T15:12:31.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "ClientOpcUaTiaPortal",
               "DocumentMoniker": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj",
               "RelativeDocumentMoniker": "ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj",
               "ToolTip": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj",
               "RelativeToolTip": "ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-26T15:09:23.609Z"
+              "WhenOpened": "2025-03-26T15:09:23.609Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "ClientOpcUaTiaPortal.csproj",
               "DocumentMoniker": "G:\\c#\\inzslow\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj",
               "RelativeDocumentMoniker": "ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj",
@@ -144,7 +349,8 @@
               "RelativeToolTip": "ClientOpcUaTiaPortal\\ClientOpcUaTiaPortal.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-26T15:00:21.543Z"
+              "WhenOpened": "2025-03-26T15:00:21.543Z",
+              "EditorCaption": ""
             }
           ]
         },

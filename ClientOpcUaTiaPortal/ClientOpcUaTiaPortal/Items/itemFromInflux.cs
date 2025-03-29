@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClientOpcUaTiaPortal.item
 {
-    public class itemFromInflux
+    public class ItemFromInflux
     {
        public string Name {  get; set; }
         public double Value { get; set; }

@@ -3,7 +3,7 @@
 namespace ClientOpcUaTiaPortal.item
 {
 
-    public class sendData
+    public class SendData
     {
         public bool child { get; set; }
         public int count { get; set; }

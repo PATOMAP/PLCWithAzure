@@ -1,26 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Threading;
+﻿using System.Windows.Threading;
 using Opc.Ua.Client;
 using Opc.Ua.Configuration;
 using Opc.Ua;
 using System.Windows;
-using static System.Runtime.InteropServices.JavaScript.JSType;
-using System.Security.Policy;
-using System.Windows.Media;
-using System.Xml.Linq;
 using System.Windows.Controls;
-using System.ComponentModel;
-using InfluxDB.Client;
-using InfluxDB.Client.Api.Domain;
-using InfluxDB.Client.Writes;
-using System.Net.Http;
-using Newtonsoft.Json;
-using System.Windows.Controls.Primitives;
-using Newtonsoft.Json.Linq;
 using ClientOpcUaTiaPortal.SD;
 using ClientOpcUaTiaPortal.TransferInformation;
 
@@ -36,8 +19,8 @@ namespace ClientOpcUaTiaPortal.item
         private List<dbBlock> dbBlocks;
         private Button btn;
 
-        private List<itemFromInflux> _itemFromInflux;
-        private List<tempItemInflux> _zmList;//azure function
+        private List<ItemFromInflux> _itemFromInflux;
+        private List<ItemInflux> _zmList;//azure function
 
         private ConnectWithInflux _connectWithInflux;
         private float setpoint;
@@ -47,10 +30,10 @@ namespace ClientOpcUaTiaPortal.item
 
         public ConnectOpcUa(List<dbBlock> nazwaDBs,string name) 
         {
-            _zmList = new List<tempItemInflux>();
+            _zmList = new List<ItemInflux>();
             _stat = false;
             dbBlocks = nazwaDBs;
-            _itemFromInflux = new List<itemFromInflux>();
+            _itemFromInflux = new List<ItemFromInflux>();
             _timer = new DispatcherTimer();
             _timer.Interval = TimeSpan.FromMilliseconds(1000);//TimeSpan.FromSeconds(1);
             _timer.Tick += Timer_Tick;
@@ -198,7 +181,7 @@ namespace ClientOpcUaTiaPortal.item
             {
                 if (_itemFromInflux.Any(p => p.Name == itemDB.Name))
                 {
-                    itemFromInflux objRem = _itemFromInflux.FirstOrDefault(p => p.Name == itemDB.Name);
+                    ItemFromInflux objRem = _itemFromInflux.FirstOrDefault(p => p.Name == itemDB.Name);
                     itemDB.Path = name + "\"" + itemDB.Name + "\"";
                     itemDB.Value = Convert.ToString(objRem.Value);
                     Write_Value(itemDB);
@@ -251,10 +234,10 @@ namespace ClientOpcUaTiaPortal.item
                         if (_zmList.Count == 0)
                         {
                             timeStart = DateTime.Now;
-                            _zmList.Add(new tempItemInflux { time = TimeSpan.Zero, ValueF = Convert.ToSingle(itemDB.Value), Setpoint = setpoint });//tempItemInflux 
+                            _zmList.Add(new ItemInflux { time = TimeSpan.Zero, ValueF = Convert.ToSingle(itemDB.Value), Setpoint = setpoint });//tempItemInflux 
                         }
                         else
-                            _zmList.Add(new tempItemInflux { time = DateTime.Now - timeStart, ValueF = Convert.ToSingle(itemDB.Value), Setpoint = setpoint });//tempItemInflux 
+                            _zmList.Add(new ItemInflux { time = DateTime.Now - timeStart, ValueF = Convert.ToSingle(itemDB.Value), Setpoint = setpoint });//tempItemInflux 
 
                     }
 
